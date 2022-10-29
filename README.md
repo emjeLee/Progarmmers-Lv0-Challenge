@@ -14,3 +14,9 @@
 ## DAY 1
 
 -   [Day1](/Day1.js)
+
+## DAY 2
+- [Day2-1](/Day2/Day2-1.js)
+- [Day2-2](/Day2/Day2-2.js)
+- [Day2-3](/Day2/Day2-3.js)
+- [Day2-4](/Day2/Day2-4.js)
