@@ -22,3 +22,8 @@ function solution(numbers) {
 
 // for문을 돌며 i번째 값에 2를 곱해준다
 // numbers[i] 에 곱한 값을 넣는다.
+
+// refactor
+function solution(numbers) {
+    return numbers.map(number => number * 2)
+ }
